@@ -1,0 +1,124 @@
+2016/07/19 16:36:45 [emerg] 27760#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:36:45 [emerg] 27760#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:36:45 [emerg] 27760#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:36:45 [emerg] 27760#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:37:01 [notice] 27772#0: signal process started
+2016/07/19 16:37:01 [error] 27772#0: open() "/percoo_home/Library/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/07/19 16:37:22 [emerg] 27789#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:37:22 [emerg] 27789#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:37:22 [emerg] 27789#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:37:22 [emerg] 27789#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:37:26 [notice] 27794#0: signal process started
+2016/07/19 16:37:26 [error] 27794#0: open() "/percoo_home/Library/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/07/19 16:38:21 [emerg] 27834#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:38:21 [emerg] 27834#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:38:21 [emerg] 27834#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:38:21 [emerg] 27834#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:38:21 [emerg] 27834#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/07/19 16:38:21 [emerg] 27834#0: still could not bind()
+2016/07/19 17:08:25 [emerg] 29162#0: "server" directive is not allowed here in /percoo_home/Library/nginx/conf/nginx.conf:194
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:08:50 [emerg] 29170#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:08:55 [notice] 29173#0: signal process started
+2016/07/19 17:08:55 [error] 29173#0: open() "/percoo_home/Library/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2016/07/19 17:15:17 [emerg] 29314#0: still could not bind()
+2016/07/19 17:16:58 [error] 29207#0: *2 open() "/percoo_home/Library/nginx/html/favicon.ico" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /favicon.ico HTTP/1.1", host: "www.percoo.com:8080", referrer: "http://www.percoo.com:8080/"
+2016/07/19 17:21:20 [error] 29207#0: *6 open() "/percoo_home/Library/nginx/html/favicon.ico" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /favicon.ico HTTP/1.1", host: "www.percoo.com:8080", referrer: "http://www.percoo.com:8080/"
+2016/07/19 17:30:16 [error] 29207#0: *14 open() "/percoo_home/Library/nginx/html/stat.xsl" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /stat.xsl HTTP/1.1", host: "www.percoo.com:8080", referrer: "http://www.percoo.com:8080/stat"
+2016/07/19 17:31:58 [error] 29207#0: *17 open() "/percoo_home/Library/nginx/html/stat.xsl" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /stat.xsl HTTP/1.1", host: "www.percoo.com:8080", referrer: "http://www.percoo.com:8080/stat"
+2016/07/19 18:00:03 [error] 29207#0: *21 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:00:22 [error] 29207#0: *21 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:07 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:08 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:08 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:10 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:10 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:11 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:11 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:12 [error] 29207#0: *28 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "www.percoo.com:8080"
+2016/07/19 18:04:40 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:04:40 [error] 29207#0: *30 open() "/percoo_home/Library/nginx/html/favicon.ico" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /favicon.ico HTTP/1.1", host: "54.175.51.248:8080", referrer: "http://54.175.51.248:8080/hls/percoo.m3u8"
+2016/07/19 18:04:52 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:04:52 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:05:14 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:05:15 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:05:15 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:05:15 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:05:16 [error] 29207#0: *29 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:08:37 [error] 29207#0: *32 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:34 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:37 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:39 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:40 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:42 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:42 [error] 29207#0: *35 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:43 [error] 29207#0: *35 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:44 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:46 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:47 [error] 29207#0: *35 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:48 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:50 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:52 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:54 [error] 29207#0: *35 open() "/tmp/hls/percoo1.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo1.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:54 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:56 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:58 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:13:59 [error] 29207#0: *35 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:13:59 [error] 29207#0: *36 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:14:00 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:02 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:04 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:06 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:08 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:10 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:12 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:14 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:16 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:18 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:20 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:22 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:24 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:25 [error] 29207#0: *35 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:14:26 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:28 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:30 [error] 29207#0: *34 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:47 [error] 29207#0: *37 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:47 [error] 29207#0: *37 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:49 [error] 29207#0: *37 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:51 [error] 29207#0: *37 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:14:51 [error] 29207#0: *38 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:14:52 [error] 29207#0: *38 open() "/tmp/hls/percoo.m3u8" failed (13: Permission denied), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:14:53 [error] 29207#0: *37 hls: error creating fragment file (13: Permission denied), client: 70.95.5.186, server: 0.0.0.0:1935
+2016/07/19 18:15:48 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:49 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:49 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:51 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:55 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:55 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:56 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:56 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:57 [error] 29207#0: *40 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:57 [error] 29207#0: *41 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:57 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:15:59 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:16:00 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:16:01 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:16:02 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:16:02 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:16:03 [error] 29207#0: *42 open() "/tmp/hls/percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080"
+2016/07/19 18:17:52 [error] 29207#0: *46 open() "/tmp/hls/Percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/Percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080", referrer: "http://54.175.51.248:8080/hls/percoo.m3u8"
+2016/07/19 18:31:55 [error] 29207#0: *55 open() "/tmp/hls/Percoo.m3u8" failed (2: No such file or directory), client: 70.95.5.186, server: , request: "GET /hls/Percoo.m3u8 HTTP/1.1", host: "54.175.51.248:8080", referrer: "http://54.175.51.248:8080/hls/percoo.m3u8"
